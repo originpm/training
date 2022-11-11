@@ -1,5 +1,5 @@
 <?php
-echo "Hello there";
+echo "Hello there from OpenShift";
 
 echo "<br>";
 echo "<br>";
